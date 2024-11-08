@@ -10,10 +10,10 @@ That'd be amazing. Check the [Contributing](./CONTRIBUTING.md) guide for more in
 
 ## Learn more
 
-🧠 [Nx Docs](https://nx.dev)  
-👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)  
-💬 [Nx Community Discord](https://go.nx.dev/community)  
-📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)  
-🧐 [Need help with Angular, React, Monorepos, Lerna or Nx? Talk to us 😃](https://nx.app/enterprise)
+🧠 [Nx Docs](https://synopkg.dev)  
+👩‍💻 [Nx GitHub](https://github.com/synopkg/synopkg)  
+💬 [Nx Community Discord](https://go.synopkg.dev/community)  
+📹 [Nx Youtube Channel](https://www.youtube.com/@khulnasoft)  
+🧐 [Need help with Angular, React, Monorepos, Lerna or Nx? Talk to us 😃](https://synopkg.app/enterprise)
 
-Also, make sure to follow [Nx](https://twitter.com/nxdevtools) on Twitter for more!
+Also, make sure to follow [Nx](https://twitter.com/khulnasoft) on Twitter for more!
